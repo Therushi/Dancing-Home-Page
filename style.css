@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=Allerta&family=DM+Serif+Display&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.container {
+  display: flex;
+}
+.logo {
+  position: absolute;
+}
+.right-main {
+  padding: 30px;
+}
+.header > ul {
+  display: flex;
+  list-style: none;
+  justify-content: flex-end;
+  margin-left: 310px;
+}
+.list-item {
+  padding: 0px 30px;
+}
+.hero {
+  display: flex;
+}
+.crea {
+  font-size: 130px;
+}
+.tivity {
+  font-style: "DM Serif Display", serif;
+  font-size: 130px;
+  font-weight: 900;
+}
+.head-count > div {
+  font-size: 40px;
+}
+/* footer  */
+.foot {
+  display: flex;
+}
